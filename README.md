@@ -2,7 +2,7 @@
 
 This repository provides a pre-compiled kernel module for Realtek-based USB Gigabit Ethernet adapters (like the TP-Link UE300) on **2024 LG TVs**.
 
-LG removed these drivers from the kernel in webOS 24 (Paparoa/K25lp boards). This fix restores Gigabit speeds for Moonlight, Sunshine, and high-bitrate streaming.
+LG removed these drivers from the kernel in webOS 25 (Paparoa/K25lp boards). This fix restores Gigabit speeds for Moonlight, Sunshine, and high-bitrate streaming.
 
 ## Technical Specifications
 *   **Kernel Version:** 5.4.268-294.17.paparoa.pine.2
