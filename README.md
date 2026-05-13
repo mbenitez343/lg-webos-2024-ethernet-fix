@@ -48,6 +48,11 @@ EOF
 chmod +x /var/lib/webosbrew/init.d/99-usb-network
 ```
 
+## Disclaimer & Warning
+
+Use this at your own risk. You are modifying kernel-level files on your TV. I am not responsible for any boot loops or system instability (though this driver is stable on my QNED86). Always make sure your kernel version matches before loading the module.
+
+If you have a different 2024 model or a different chipset and want to try this, feel free to reach out! If the source code is available on LG's portal, I'm open to generating drivers for other TVs to help the community bypass this annoying limitation.
 
 ## License
 MIT
